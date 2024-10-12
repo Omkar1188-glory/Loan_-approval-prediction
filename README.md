@@ -35,8 +35,10 @@ This project aims to build a machine learning model that predicts the likelihood
 
 2. Navigate to the project directory:
    cd loan-approval-prediction
+   
 3.Install the required packages:
   pip install -r requirements.txt
+  
 4.Run the Streamlit app:
   streamlit run app.py
 
