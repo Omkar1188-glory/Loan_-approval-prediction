@@ -26,7 +26,7 @@ This project aims to build a machine learning model that predicts the likelihood
 - User-friendly web application interface.
 
 ## Data
-- The dataset used for training the model can be found [here](link-to-dataset).
+- The dataset used for training the model can be found in the loan_approval_dataset.csv folder.
 
 ## How to Run the Project
 1. Clone the repository:
