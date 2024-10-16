@@ -32,7 +32,7 @@ This project aims to build a machine learning model that predicts the likelihood
 ## Screenshots
 
 ### Home Page
-![Home Page](images/Front_page1.png)
+![Home Page](Images/Front_page1.png)
 
 ### Loan Prediction Result
 ![Result Page](images/Result_page.png)
