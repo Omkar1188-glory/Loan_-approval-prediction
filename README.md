@@ -7,6 +7,7 @@ This project aims to build a machine learning model that predicts the likelihood
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Data](#data)
+- [Screenshots](#Screenshots)
 - [How to Run the Project](#how-to-run-the-project)
 - [Contributions](#contributions)
   
@@ -27,6 +28,24 @@ This project aims to build a machine learning model that predicts the likelihood
 
 ## Data
 - The dataset used for training the model can be found in the loan_approval_dataset.csv folder.
+
+## Screenshots
+
+### Home Page
+![Home Page](images/Front_page1.png)
+
+### Loan Prediction Result
+![Result Page](images/Result_page.png)
+
+### Visualization Example 1
+![Visualization Example 1](images/visualization_example1.png)
+
+### Visualization Example 2
+![Visualization Example 2](images/visualization_example2.png)
+
+### Visualization Example 3
+![Visualization Example 3](images/visualization_example3.png)
+
 
 ## How to Run the Project
 1. Clone the repository:
