@@ -34,8 +34,14 @@ This project aims to build a machine learning model that predicts the likelihood
 ### Home Page
 ![Home Page](Images/Front_page1.png)
 
+### Home Page 2
+![Home Page](Images/Front_page2.png)
+
 ### Loan Prediction Result
 ![Result Page](Images/Result_page.png)
+
+### Loan Prediction Result 2
+![Result Page](Images/Result_page1.png)
 
 ### Visualization Example 1
 ![Visualization Example 1](Images/visualization_example1.png)
