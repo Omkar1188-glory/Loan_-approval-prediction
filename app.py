@@ -39,7 +39,7 @@ def load_image(image_file):
     return base64.b64encode(data).decode()
 
 # Load the image as a base64 string (change the path to your image)
-image_base64 = load_image(r"C:\Users\omkad\OneDrive\Desktop\LPA\bank-loan-successfully-illustration-concept-on-white-background-vector.jpg")
+image_base64 = load_image("bank-loan-successfully-illustration-concept-on-white-background-vector.jpg")
 # Define a function to show the form page
 def show_form():
     st.title('📊 Loan Prediction App By Omkar Kadam.')
